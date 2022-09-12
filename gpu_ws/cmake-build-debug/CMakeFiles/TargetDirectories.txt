@@ -1,0 +1,3 @@
+/home/kfir/Projects/gpu_ws/cmake-build-debug/CMakeFiles/gpu_ws.dir
+/home/kfir/Projects/gpu_ws/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kfir/Projects/gpu_ws/cmake-build-debug/CMakeFiles/rebuild_cache.dir
